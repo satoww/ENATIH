@@ -1,0 +1,7 @@
+{
+  "name": "ENATIH 2026 - 1° Congresso de Medicina Personalizada",
+  "description": "Premium event landing page for the ENATIH 2026 summit featuring interactive schedules, event maps, and an AI-powered concierge.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
